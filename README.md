@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/USERNAME/REPO_NAME/blob/main/path/to/your/animation.gif" alt="Girl on Computer with Idea" width="300"/>
+  <img src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l" alt="Girl on Computer with Idea" width="300"/>
 </p>
 - 👋 Hi, I’m Sama Alharbi
 - 👀 I’m interested in Python Programming,SQL and AI 
@@ -11,4 +11,3 @@
 samaalharbi2/samaalharbi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
