@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0euZHQe3k2xVPHnUL5c9HW&ust=1747016822169000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiBxf2vmo0DFQAAAAAdAAAAABAE" alt="Girl on Computer with Idea" width="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0euZHQe3k2xVPHnUL5c9HW&ust=1747016822169000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiBxf2vmo0DFQAAAAAdAAAAABAE" width="300"/>
 </p>
 - 👋 Hi, I’m Sama Alharbi
 - 👀 I’m interested in Python Programming,SQL and AI 
