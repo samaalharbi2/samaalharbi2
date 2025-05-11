@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://github.com/USERNAME/REPO_NAME/blob/main/path/to/your/animation.gif" alt="Girl on Computer with Idea" width="300"/>
+</p>
 - 👋 Hi, I’m Sama Alharbi
 - 👀 I’m interested in Python Programming,SQL and AI 
 - 💞️ I’m looking to collaborate on open-source projects related to Python.
